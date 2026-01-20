@@ -12,7 +12,7 @@ Online channel sales share
 Monthly sales trend
 Key customer segments
 
-## Data Processing Steps
+## Data Processing Steps.
 
 To prepare the dataset for analysis, the following transformations were performed:
 Month Extraction: Created a new column by extracting month information from the Date field.
